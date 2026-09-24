@@ -2,6 +2,19 @@
 
 A small TUI python program that converts YouTube URLS to mp3 files.
 
+## Installation
+
+You need ffmpeg and yt-dlp.
+
+If you are on Linux run:
+
+```bash
+pip install yt-dlp
+sudo apt install ffmpeg
+```
+
+I have absolutely no idea how to do it on Mac or windows, but it should be possible.
+
 ## Python
 
 ```bash
